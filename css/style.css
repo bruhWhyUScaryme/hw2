@@ -28,7 +28,8 @@ a {
   background: white;
 }
 img {
+  width: 200px;
   position: absolute;
-  right: 40px;
+  right: 30px;
   bottom: 0;
 }
