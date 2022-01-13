@@ -28,6 +28,7 @@ a {
   background: white;
 }
 img {
+  height: 300px;
   width: 200px;
   position: absolute;
   right: 30px;
